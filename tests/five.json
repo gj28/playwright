@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Gaurav",
+        "email": "jadhav@gmail.com",
+        "password": "Pass@123",
+        "state": "Maharashtra",
+        "hobbies": "Reading",
+        "skillsToCheck": ["Selenium", "java", "RestAssured", "testest", "ApacheJMETER" ,"Cypress", "Playwright", "API Testing", "WDIO2", "RA"],
+        "skillsToUncheck": ["RA", "WDIO2", "API Testing", "Playwright", "Cypress", "ApacheJMETER", "testest", "RestAssured", "java"]
+    }
+]
